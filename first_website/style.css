@@ -1,0 +1,53 @@
+body{
+  font-family: courier;
+  background-color: peachpuff;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #c18ff0;
+}
+
+ul1 {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color:white;
+}
+
+#purplebackground{
+  background-color: #c18ff0;
+}
+.centerimage{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  }
+}
+
+.justify{
+  text-align: justify;
+  margin-left: auto;
+  margin-right: auto;
+}
+.center{
+  text-align: center;
+}
