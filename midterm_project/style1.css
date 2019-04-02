@@ -1,0 +1,38 @@
+body {
+  font-family: 'Volkhov', serif;
+  background-size: 1535px 777px;
+  background-color: black;
+}
+
+nav {
+  text-align: center;
+  background-color: white;
+  opacity: 0.65;
+  top: 0;
+  left: 0;
+  position: fixed;
+  width: 100%;
+}
+
+nav li {
+  display: inline;
+  padding: 100px;
+
+}
+
+nav a {
+  color: black;
+  font-size: 18px;
+  padding:20px;
+  opacity: 1;
+}
+
+h1 {
+  color:white;
+  padding-top: 50px;
+  padding-bottom: 0px;
+}
+
+h2 {
+  color:white;
+}
