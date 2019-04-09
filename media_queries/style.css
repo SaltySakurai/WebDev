@@ -1,0 +1,72 @@
+body {
+  background-image: url('https://images5.alphacoders.com/858/858608.jpg');
+  background-size: 1535px 777px;
+  font-family: 'Volkhov', serif;
+  background-color: black;
+}
+@media screen and (max-width: 900px){
+  body{
+    background-image: url("https://images2.alphacoders.com/927/thumb-1920-927337.png");
+    background-size: 900px 750px;
+    font-size: 24px;
+    margin:20px
+  }
+}
+
+nav {
+  text-align: center;
+  background-color: white;
+  opacity: 0.65;
+  top: 0;
+  left: 0;
+  position: fixed;
+  width: 100%;
+}
+
+nav li {
+  display: inline;
+  padding: 100px;
+
+}
+
+nav a {
+  color: black;
+  font-size: 18px;
+  padding:20px;
+  opacity: 1;
+}
+
+.carousel-item{
+  height: 100%
+}
+
+.carousel-item img {
+  height: 100%;
+  width: 100%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+h1 {
+  color:white;
+  padding-top: 50px;
+  padding-bottom: 0px;
+}
+
+h2 {
+  color:white;
+}
+
+.paragraph {
+  color: white;
+  opacity: 0.9;
+  font-size: 20px;
+  width:700px;
+}
+
+.p1 {
+  color: white;
+  width: 700px;
+  font-size: 20px;
+}
