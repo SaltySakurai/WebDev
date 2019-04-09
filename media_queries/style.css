@@ -7,11 +7,20 @@ body {
 @media screen and (max-width: 900px){
   body{
     background-image: url("https://images2.alphacoders.com/927/thumb-1920-927337.png");
-    background-size: 900px 750px;
+    background-size: 1200px 750px;
     font-size: 24px;
-    margin:20px
+    margin: 20px
   }
 }
+
+@media screen and (max-width: 400px) and (min-width: 899px) {
+  body{
+    background-color: black;
+    font-size: 36px;
+    margin: 20px
+  }
+}
+
 
 nav {
   text-align: center;
